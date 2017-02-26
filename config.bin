@@ -1,0 +1,10 @@
+#DO NOT DELETE THIS FILE. (C) BY SAMILA WIJERATHNA
+#Created At: 2017-02-02
+#Thu Feb 02 01:34:40 IST 2017
+port=3306
+hostname=localhost
+password=
+tax_electricity=true
+database=application_database
+updateURL=
+username=root
